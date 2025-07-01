@@ -62,6 +62,8 @@ Pemilihan metode ini memungkinkan pembuatan tampilan profesional tanpa perlu cod
 </div>
 
 ## Video Demo
+Klik gambar di bawah untuk menonton video demo kami di YouTube.
+
 [![Tonton Video Demo Kami](https://img.youtube.com/vi/jobxBClpFp8/0.jpg)](https://youtu.be/jobxBClpFp8)
 
 ## Akses Web 
