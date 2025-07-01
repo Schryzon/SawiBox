@@ -62,7 +62,7 @@ Pemilihan metode ini memungkinkan pembuatan tampilan profesional tanpa perlu cod
 </div>
 
 ## Video Demo
-Pending...
+[![Tonton Video Demo Kami](https://img.youtube.com/vi/jobxBClpFp8/0.jpg)](https://youtu.be/jobxBClpFp8)
 
 ## Akses Web 
 <a href="https://schryzon.wixsite.com/sawibox" target="_blank">
