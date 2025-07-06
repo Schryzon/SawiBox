@@ -84,8 +84,7 @@ Klik link berikut ini: **https://schryzon.wixsite.com/sawibox**
 Klik gambar di bawah untuk membuka file presentasi kami di Canva.
 <div align="center">
   <a href="https://www.canva.com/design/DAGsMkZu3Yc/OTTpnChPmSXWrp9jpOSaIA/edit" target="_blank">
-    <img src="img/ppt.png" alt="Presentasi SawiBox" style="width:60%;>
-
+    <img src="img/ppt.png" alt="Presentasi SawiBox" style="width:60%;">
   </a>
 </div>
 
