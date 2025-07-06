@@ -29,6 +29,7 @@ Kami berkomitmen untuk menyediakan hasil pertanian berkualitas melalui dukungan 
     4.1. [Screenshot](#screenshot-tampilan-website)
     4.2. [Video](#video-demo)
     4.3. [Link Website](#akses-web)
+    4.4. [Presentasi](#file-presentasi)
 5. [Tim Pengembang](#tim-pengembang)
 
 ## Fitur
@@ -48,9 +49,10 @@ Pemilihan metode ini memungkinkan pembuatan tampilan profesional tanpa perlu cod
 
 
 **Alasan penggunaan:**
+- 📂 Database yang mudah untuk dimodifikasi
 - ⏱️ Efisiensi waktu pengerjaan
 - 🎨 Fokus pada desain dan kemudahan navigasi
-- 📱 Pengembangan UI responsif yang cepat untuk berbagai perangkat
+- 📱 Pengembangan UI responsif yang cepat untuk desktop dan mobile
 
 ## Screenshot Tampilan Website
 <div align="center">
@@ -63,10 +65,13 @@ Pemilihan metode ini memungkinkan pembuatan tampilan profesional tanpa perlu cod
 
 ## Video Demo
 Klik gambar di bawah untuk menonton video demo kami di YouTube.
+<div align="center">
+  <a href="https://youtu.be/jobxBClpFp8" target="_blank">
+    <img src="https://img.youtube.com/vi/jobxBClpFp8/0.jpg" alt = "Tonton Video Demo Kami">
+  </a>
+</div>
 
-[![Tonton Video Demo Kami](https://img.youtube.com/vi/jobxBClpFp8/0.jpg)](https://youtu.be/jobxBClpFp8)
-
-## Akses Web 
+## Akses Web
 <a href="https://schryzon.wixsite.com/sawibox" target="_blank">
   <img src="https://img.shields.io/badge/Klik%20untuk%20Mencoba%20SawiBox-green?style=for-the-badge" alt="Klik Ini">
 </a>
@@ -75,8 +80,17 @@ atau
 
 Klik link berikut ini: **https://schryzon.wixsite.com/sawibox**
 
+## File Presentasi
+Klik gambar di bawah untuk membuka file presentasi kami di Canva.
+<div align="center">
+  <a href="https://www.canva.com/design/DAGsMkZu3Yc/OTTpnChPmSXWrp9jpOSaIA/edit" target="_blank">
+    <img src="img/ppt.png" alt="Presentasi SawiBox" style="width:60%;>
+
+  </a>
+</div>
+
 ## Tim Pengembang
-- **I Nyoman Widia Sedana** - Digital Business
+- **I Nyoman Windia Sedana** - Digital Business
 - **Mahriadi** - Digital Business
 - **I Nyoman Widiyasa Jayananda** - Programmer ([Schryzon](https://github.com/Schryzon))
 - **M. Sagos** - Programmer ([gasosart](https://github.com/Sagos4321))
@@ -85,7 +99,7 @@ Klik link berikut ini: **https://schryzon.wixsite.com/sawibox**
 <summary>Kontributor Repo</summary>
 <br>
 <p align="left">
-   <a href="https://github.com{/Schryzon/SawiBox/graphs/contributors">
+   <a href="https://github.com/Schryzon/SawiBox/graphs/contributors">
       <img src="https://contrib.rocks/image?repo=Schryzon/SawiBox">
    </a>
 </p>
